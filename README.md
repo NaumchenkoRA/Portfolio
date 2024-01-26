@@ -19,5 +19,4 @@
 | Row 3    | Cell 8   | Cell 9   | Cell 6   |
 | Row 3    | Cell 8   | Cell 9   | Cell 6   |
 | Row 3    | Cell 8   | Cell 9   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   | Cell 6   |
+
