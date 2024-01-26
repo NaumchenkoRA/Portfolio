@@ -2,7 +2,7 @@
 Заказчик: Менеджер отдела маркетинга
 Задача: Проанализировать клиентов регионального банка и выделите сегменты клиентов, которые склонны уходить из банка.
 
-[Презентация](https://drive.google.com/file/d/1I8lJnbi4X-LUcLek9UmcXYV5zzvDJJfp/view)
+[Презентация](https://drive.google.com/file/d/1I8lJnbi4X-LUcLek9UmcXYV5zzvDJJfp/view)  
 [Дашборд](https://public.tableau.com/app/profile/ruslan.naumchenko/viz/final_16994204857900/Dashboard1?publish=yes)
 
 
