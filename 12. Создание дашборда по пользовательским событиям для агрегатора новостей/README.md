@@ -1,5 +1,4 @@
-## Создание дашборда по пользовательским событиям для агрегатора
-новостей
+## Создание дашборда по пользовательским событиям для агрегатора новостей
 
 [Дашборд](https://public.tableau.com/app/profile/ruslan.naumchenko/viz/Projecttableau_16977355941570/Dashboard2?publish=yes)
 
